@@ -1,0 +1,8 @@
+let arr= ["I","love","javascript."]
+ arr.forEach(function(I)
+{
+    if(I.includes("I"))
+    {
+console.log(I);
+}
+});
