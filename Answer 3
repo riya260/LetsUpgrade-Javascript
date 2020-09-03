@@ -1,0 +1,2 @@
+let arr= ["Ria","Ayushi","Shivani","Ritik","Ankita"];
+console.log(arr.indexOf("Ayushi"));
