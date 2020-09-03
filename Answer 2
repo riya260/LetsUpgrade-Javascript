@@ -1,0 +1,4 @@
+let min= 30;
+let sec= min*60;
+let result=`${min} minutes is equals to ${sec} seconds.`;
+console.log(result);
